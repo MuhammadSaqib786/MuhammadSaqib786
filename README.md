@@ -23,8 +23,15 @@ With a profound expertise in Machine Learning and Full Stack Web Development, I'
 
 ## 📊 GitHub Analytics
 
-![Muhammad Saqib's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadSaqib786&show_icons=true&theme=gotham)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSaqib786&layout=compact&theme=gotham)
+![Muhammad Saqib's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadSaqib786&show_icons=true&theme=radical&hide_title=true&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSaqib786&layout=compact&theme=radical)](https://github.com/MuhammadSaqib786)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSaqib786&theme=radical)](https://github.com/MuhammadSaqib786)
+
+---
+
+## 📈 GitHub Activity Graph
+
+[![Muhammad Saqib's github activity graph](https://activity-graph.herokuapp.com/graph?username=MuhammadSaqib786&theme=react-dark)](https://github.com/MuhammadSaqib786)
 
 ---
 

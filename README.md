@@ -1,6 +1,6 @@
 # Muhammad Saqib
 
-![Banner Image](URL-to-a-professional-banner-if-you-have-one)
+
 
 ### 🌟 Machine Learning Expert | Full Stack Web Developer
 
@@ -35,17 +35,6 @@ With a profound expertise in Machine Learning and Full Stack Web Development, I'
 
 ---
 
-## 🏆 Notable Projects
-
-- [Project Name](URL-to-project) - A comprehensive description of this project, its challenges, and the solutions you implemented.
-- [Another Project](URL-to-another-project) - Delve into the technologies used and the impact this project has made.
-
----
-
-## 🌍 Publications & Talks
-
-- **Title of Your Talk or Paper** - A brief description or abstract. Link to the full talk or paper if available.
-- **Another Title** - Description and link.
 
 ---
 

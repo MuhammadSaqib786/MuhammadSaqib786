@@ -1,6 +1,7 @@
 # Muhammad Saqib
 
-![Banner Image](URL-to-a-professional-banner-if-you-have-one)
+![Banner Image](./banner.png)
+
 
 ### Machine Learning Expert | Full Stack Web Developer
 

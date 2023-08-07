@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Full Stack Developer and Machine Learning Expert from Pakistan</h3>
 <img align="left" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MuhammadSaqib786&label=Profile%20views&color=0e75b6&style=flat" alt="MuhammadSaqib786" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MuhammadSaqib786" alt="MuhammadSaqib786" /></a> </p>
 
 - 💬 Ask me about **Python, Full Stack Development, Machine Learning**

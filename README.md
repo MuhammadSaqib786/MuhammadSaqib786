@@ -1,67 +1,116 @@
-<h1 align="center">👋 Hi, I'm Muhammad Saqib</h1>
-<h3 align="center">AI & Machine Learning Engineer | Full Stack Developer | MSc IT @ TH OWL (Germany)</h3>
+<!-- ===== HEADER BANNER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Muhammad%20Saqib&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Agentic%20AI%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18" />
 
+<!-- ===== TYPING ANIMATION ===== -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MuhammadSaqib786&theme=onedark&row=1&column=6" alt="muhammadsaqib786" />
+  <a href="https://github.com/MuhammadSaqib786">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Agentic+AI+%26+RAG+Specialist;Full-Stack+Developer+%7C+MSc+IT+%40+TH+OWL;OpenAI+Agents+SDK+Contributor" alt="Typing SVG" />
   </a>
 </p>
 
----
-
-### 🚀 About Me  
-- 🎓 MSc IT student at **TH OWL Lemgo, Germany**  
-- 🔬 Former **Research Assistant (AI/ML)** at **HSBI Bielefeld**  
-- 💻 5+ years of experience in **AI, Federated Learning, Full Stack Web Development, and Blockchain**  
-- ⚡ Passionate about **privacy-preserving AI** (Federated Learning, Homomorphic Encryption) and deploying ML on **edge devices (NVIDIA Jetson AGX Orin)**  
-- 🌱 Currently working on projects in **LLMs, RAG systems, and AI-powered platforms**  
-
----
-
-### 💡 Ask Me About  
-- Python, TensorFlow, PyTorch, Scikit-learn  
-- React, Next.js, Tailwind, shadcn/ui  
-- Flask, Django, Node.js, MERN  
-- Federated Learning (Flower), Edge AI, OpenFHE  
-- Blockchain (Web3.js, Smart Contracts, Ethereum)  
-- Databases (PostgreSQL, MySQL, MongoDB)  
-
----
-
-### 📌 Featured Projects  
-- 🧠 **AI-Based Career Counseling System** – Resume parsing + NLP (TF-IDF + Cosine Similarity) for job recommendations.  
-- 🏠 **Smart Home Federated Learning** – Built LSTM models with Flower & TensorFlow for privacy-preserving AI.  
-- 🩺 **Skin Disease Detection App** – CNN model (86% accuracy) with Flask-based web deployment.  
-- 🔐 **Salsa20-CNN Image Encryption** – Hybrid cryptographic + CNN-based secure image system.  
-- ✈️ **Blockchain Airplane Management System** – Built with React + Web3.js for secure interactions.  
-
----
-
-### 🛠️ Languages & Tools  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,ts,js,html,css,php,react,nextjs,nodejs,tailwind,django,flask,tensorflow,pytorch,opencv,mongodb,postgres,mysql,git,github,docker,linux,redis,graphql&perline=12" />
+<!-- ===== SOCIAL BADGES ===== -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-saqib-6a51bb159/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:saqisaqi.sk@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/MuhammadSaqib786">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=MuhammadSaqib786&style=for-the-badge&color=8E2DE2&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ---
 
-### 📊 GitHub Stats  
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadSaqib786&show_icons=true&locale=en&layout=compact&theme=radical" alt="top-langs" />
+## 🧠 About Me
+
+```typescript
+const muhammad = {
+  role: "AI-LLM-Server Specialist · Bielefeld, Germany",
+  education: "MSc Information Technology @ TH OWL, Lemgo 🇩🇪",
+  focus: ["Agentic AI", "RAG Pipelines", "Multi-Agent Orchestration", "Privacy-Preserving AI"],
+  currentlyBuilding: ["LLM support assistants", "Crypto signal dashboards", "AI automation pipelines"],
+  openSource: "Contributor to the OpenAI Agents SDK (Python)",
+  funFact: "I ship faster than my coffee gets cold ☕",
+};
+```
+
+- 🔭 Currently building **agentic AI systems, RAG pipelines & LLM-powered platforms** in **Bielefeld**
+- 🧪 Ex **Research Assistant (AI/ML)** @ **HSBI Bielefeld** — Federated Learning, Homomorphic Encryption, Edge AI on NVIDIA Jetson AGX Orin
+- ⚡ 5+ years across **AI/ML, LLMs, Full-Stack, and Blockchain**
+- 🎯 Heading toward a **PhD in Medical & Healthcare AI**
+- 🌍 Based in **Germany**, roots in **Pakistan 🇵🇰**
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,flask,django&perline=6" /><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind&perline=6" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,redis,docker&perline=6" /><br/>
+  <img src="https://skillicons.dev/icons?i=aws,firebase,git,github,linux,solidity&perline=6" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammadSaqib786&show_icons=true&locale=en&theme=radical" alt="stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSaqib786&theme=radical" alt="streak" />
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI%20Agents%20SDK-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-FF6F61?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-009688?style=flat-square&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
 </p>
 
 ---
 
-### 📫 Connect With Me  
-- ✉️ Email: **saqisaqi.sk@gmail.com**  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-saqib-6a51bb159/)  
-- 💻 [GitHub](https://github.com/MuhammadSaqib786)  
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🤖 **KIM – AI Email Support Assistant** | RAG-powered support agent over a German PDF wiki with multilingual embeddings + reranking | `Python` `FAISS` `BM25` `Playwright` |
+| 📜 **Certify** | Certificate generation & email pipeline with an animated dashboard, replacing an n8n workflow | `Node.js` `Puppeteer` |
+| 📈 **TickDesk** | Live crypto scalping signals dashboard pulling Binance data, routed through AI decision engines | `React` `Gemini API` `Node.js` |
+| 🏠 **Smart Home Federated Learning** | LSTM models trained across clients with privacy-preserving FL | `Flower` `TensorFlow` |
+| 🩺 **Skin Disease Detection** | CNN web app with real-time image classification (92% val accuracy) | `Flask` `OpenCV` |
+| 🇩🇪 **Leben in Deutschland Trainer** | Bilingual civics-exam study app — all 460 questions, 16 states, progress tracking | `Next.js` `Supabase` |
 
 ---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MuhammadSaqib786&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadSaqib786&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="top-langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSaqib786&hide_border=true&theme=tokyonight" alt="streak" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadSaqib786&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+</p>
+
+---
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadSaqib786&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="trophies" />
+</p>
+
+---
+
+<!-- ===== CONTRIBUTION SNAKE ===== -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadSaqib786/MuhammadSaqib786/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/MuhammadSaqib786/MuhammadSaqib786/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer&text=Thanks%20for%20visiting!%20Let's%20build%20something%20great.&fontSize=18&fontColor=ffffff&fontAlignY=70" />

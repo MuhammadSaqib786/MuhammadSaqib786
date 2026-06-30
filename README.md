@@ -78,30 +78,6 @@ const muhammad = {
 | 🩺 **Skin Disease Detection** | CNN web app with real-time image classification (92% val accuracy) | `Flask` `OpenCV` |
 | 🇩🇪 **Leben in Deutschland Trainer** | Bilingual civics-exam study app — all 460 questions, 16 states, progress tracking | `Next.js` `Supabase` |
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MuhammadSaqib786&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadSaqib786&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="top-langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSaqib786&hide_border=true&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadSaqib786&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
-</p>
-
----
-
-## 🏆 Highlights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadSaqib786&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&custom_title=Muhammad's%20GitHub%20Highlights&show=reviews,discussions_started,prs_merged" alt="highlights" />
-</p>
 
 ---
 
